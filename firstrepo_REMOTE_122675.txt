@@ -22,12 +22,7 @@ This is a test from Zakraia
 
 >>>>>>> cb2e0a77192671056098a61bc8c0f3cbe6ccb280
 <<<<<<< HEAD
-This is zakaria
-||||||| 749fd99
-=======
-<<<<<<< HEAD
 السلام عليكم
 =======
 amjad adel
 >>>>>>> de7240ce47bc6288c91cbfde6f7b150b600a3b9a
->>>>>>> f8707c338f7731a57b0e553e8413bc7900d45956
